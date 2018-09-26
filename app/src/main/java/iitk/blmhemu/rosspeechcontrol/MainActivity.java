@@ -67,11 +67,11 @@ public class MainActivity extends AppCompatActivity {
                         dir = "Right";
                         break;
                     }
-                    if (s.contains("front")) {
+                    if (s.contains("front") || s.contains("straight") || s.contains("forward")) {
                         dir = "Front";
                         break;
                     }
-                    if (s.contains("back")) {
+                    if (s.contains("back") || s.contains("reverse") || s.contains("backward")) {
                         dir = "Back";
                         break;
                     }
