@@ -8,4 +8,6 @@ The topic can then be used to control the robot on the robot side.
 ***Note: The android device and the robots's processor must be on the same network.***
 
 ## Install Instructions
-Install [ROSJAVA](https://github.com/rosjava), Import the project in Android Studio.
+Install [ROSJAVA](https://github.com/rosjava) and Import the project in Android Studio.
+
+__If you need more help regarding this project, raise an issue.__
